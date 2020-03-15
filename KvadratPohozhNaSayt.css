@@ -1,0 +1,39 @@
+td
+{
+    border: solid 1px black;
+    
+}
+table
+{
+    border-collapse: collapse;
+    font-size: 20px;    
+    text-align: center;
+    border: solid 2px white;
+    width: 280px;
+}
+.orange
+{
+    background: orange;
+    word-wrap: normal;
+}
+.red
+{
+    background: red;
+    height: 80px;
+    width: 130px;
+}
+.darkred
+{
+    background: brown;
+    color: white;
+    height: 180px;
+    width: 80px;
+}
+.black
+{
+    background: rgb(26, 26, 26);
+    color: white;
+    width: 58px;
+    word-wrap: normal;
+    
+}
