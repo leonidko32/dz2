@@ -1,0 +1,47 @@
+table {
+      border: 4px solid #000;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid lightgray;
+    width: 60px;
+    height: 60px;
+}
+
+.green
+{
+    background: green;
+    border-color: green;
+}
+
+tr:nth-child(n + 5):nth-child(-n + 8) td:first-child
+{
+    color: darkblue;
+    background: currentColor;
+    border-color: currentColor;
+}
+.brown
+{
+    color: brown;
+    background: currentColor;
+    border-color: currentColor;
+}
+.blue
+{
+    color: lightblue;
+    background: currentColor;
+    border-color: currentColor;
+}
+.orange
+{
+    color: orange;
+    background: currentColor;
+    border-color: currentColor;  
+}
+.red
+{
+    color: red;
+    background: currentColor;
+    border-color: currentColor;
+}
